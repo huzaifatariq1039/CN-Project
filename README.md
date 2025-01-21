@@ -1,1 +1,1 @@
-# CN-Project
+This project showcases a simple network topology comprising five routers interconnected via serial links, with Router 5 serving as a central node connected to two switches through FastEthernet interfaces. Each switch is linked to a PC, enabling end-to-end communication across the network. The topology is designed to demonstrate fundamental concepts in routing, switching, and network configuration, providing a solid foundation for learners to understand and implement small-scale network setups using tools like Cisco Packet Tracer or GNS3.
